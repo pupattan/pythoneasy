@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='pythoneasy',
-    version='1.1',
+    version='1.2',
     url='https://github.com/pupattan/pythoneasy',
     license='MIT',
     author='pupattan',
