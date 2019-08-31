@@ -1,6 +1,6 @@
 PythonEASY APIs
 
-Welcome to pythoneasy’s documentation!
+Welcome to pythoneasy's documentation!
 =====================================
 
 About

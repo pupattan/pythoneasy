@@ -5,13 +5,14 @@ with open("README.md", "r") as fh:
 
 setup(
     name='pythoneasy',
-    version='1.2',
+    version='1.4',
     url='https://github.com/pupattan/pythoneasy',
     license='MIT',
     author='pupattan',
     author_email='',
     description='PythonEASY APIs',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     packages=find_packages(),
     install_requires=[
           'requests',
